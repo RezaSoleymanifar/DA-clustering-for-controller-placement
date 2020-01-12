@@ -1,6 +1,6 @@
 This is the Python implementation of the 
 "A Clustering Approach to Edge Controller Placement in Software Defined Networks with Cost Balancing" paper.
-You can find the paper [here](https://arxiv.org/abs/1912.02915?context=cs).
+You can find the paper on Arxiv [here](https://arxiv.org/abs/1912.02915?context=cs).
 
 This project is done from scratch and without use of any ML packages. Feel free to load your own datasets to train your own models. Two training methods are provided: (1) training using barrier interior point method with Newton steps, for optimization of quadratic programs and (2) ellipsoid method. Information on the details of implementations of these algorithms is provided in `Training Documentation.ipynb` notebook.
 

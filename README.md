@@ -29,4 +29,4 @@ The results are saved to `results.npy` file as a dictionary containing the clust
 
 ### Reference
 
-[A Clustering Approach to Edge Controller Placement in Software Defined Networks with Cost Balancing](https://arxiv.org/abs/1912.02915?context=cs)
+- [A Clustering Approach to Edge Controller Placement in Software Defined Networks with Cost Balancing](https://arxiv.org/abs/1912.02915?context=cs)

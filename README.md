@@ -13,7 +13,7 @@ To install required packages run:
 pip install -r requirements.txt
 ```
 
-- Find the placement of controllers:
+Find the placement of controllers:
 
 ```bash
 python train_ipm.py 'data_file.npy' max_m gamma interactive mode

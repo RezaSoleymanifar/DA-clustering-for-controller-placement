@@ -21,7 +21,7 @@ Find the placement of controllers:
 python train_ipm.py 'data_file.npy' max_m gamma interactive mode
 ```
 
-`'data_file.npy` contains the coordinates of the network nodes as rows of the input data matrix. `max_m` is the hyperparameter
+`data_file.npy` contains the coordinates of the network nodes as rows of the input data matrix. `max_m` is the hyperparameter
 that restricts the maximum number of controllers to be placed in the network.
 `gamma` denotes the synchronization cost coefficient, `interactive` can take any
 vlaues in `1, 2, 3` and each corresponds to a dynamic plot that displays the progress of the algorithm.
